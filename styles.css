@@ -1,0 +1,420 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+.header{
+background: #000000;
+}
+
+.navbar{
+    padding-top: 20px !important;
+}
+
+.nav-iten{
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+
+.nav-link{
+    color:#fff !important;
+    font-size: 12px !important; 
+    padding:0 0  5px 0;
+    display: unset !important;
+    
+}
+
+.navbar-brand img{
+    width: 125px;
+}
+
+.fa-bars{
+    color: #fff;
+    font-size: 40px !important;
+}
+.navbar-toggler{
+    border-radius: 0 !important;
+    outline: none !important;
+    padding: initial !important;
+}
+
+.active-home{
+    border-bottom: 2px solid #fff;
+}
+
+.nav-link :hover{
+    border-bottom: 2px solid #fff; 
+}
+
+.banner{
+    margin-top: 10%;
+    color: #fff;
+}
+
+
+.banner h1 {
+    margin: 5px 0 30px;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.banner img{
+    max-height: 500px;
+}
+
+.banner a{
+    padding: 12px;
+    width: 150px;
+    display: inline-block;
+    background: #000000;
+    text-decoration: none !important;
+    color: #fff;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 14px;
+}
+
+.banner a:hover{
+    color: #fff;
+}
+
+.express-btn{
+    background: #fff !important;
+    color: #000000 !important;
+    margin-right: 5px;
+}
+
+
+/*services**/
+.services{
+    margin: 75px 0;
+
+}
+.title{
+    text-align: center;
+    font-weight: bold;
+    margin: 30px;
+}
+
+
+.subtitle{
+    text-align: center;
+    margin-bottom: 70px;
+    font-size: 15px;
+
+}
+
+.service-box{
+    padding: 0 35px;
+    cursor: pointer;
+    margin-bottom: 10px;
+    transition: .4s;
+}
+.service-box img{
+    width: 60px;
+    margin-top: 65px;
+    margin-bottom: 45px;
+}
+
+.service-box h6{
+    margin-bottom: 15px;
+    font-weight: bold;
+
+}
+
+.service-box {
+    background: #006847;
+    border-radius: 5px;
+    color: #000 !important;
+    box-shadow: 0 15px 15px 2px rgba(213,213,213,213,0.5);
+}
+/*services**/
+.services{
+    margin: 75px 0;
+
+}
+.title{
+    text-align: center;
+    font-weight: bold;
+    margin: 30px;
+}
+
+
+.subtitle{
+    text-align: center;
+    margin-bottom: 70px;
+    font-size: 15px;
+
+}
+
+.service-box1{
+    padding: 0 35px;
+    cursor: pointer;
+    margin-bottom: 10px;
+    transition: .4s;
+}
+.service-box1 img{
+    width: 60px;
+    margin-top: 65px;
+    margin-bottom: 45px;
+}
+
+.service-box1 h6{
+    margin-bottom: 15px;
+    font-weight: bold;
+
+}
+
+.service-box1 {
+    background: #fff;
+    border-radius: 5px;
+    color: #000 !important;
+    box-shadow: 0 15px 15px 2px rgba(213,213,213,213,0.5);
+}
+/*services**/
+.services{
+    margin: 75px 0;
+
+}
+.title{
+    text-align: center;
+    font-weight: bold;
+    margin: 30px;
+}
+
+
+.subtitle{
+    text-align: center;
+    margin-bottom: 70px;
+    font-size: 15px;
+
+}
+
+.service-box2{
+    padding: 0 35px;
+    cursor: pointer;
+    margin-bottom: 10px;
+    transition: .4s;
+}
+.service-box2 img{
+    width: 60px;
+    margin-top: 65px;
+    margin-bottom: 45px;
+}
+
+.service-box2 h6{
+    margin-bottom: 15px;
+    font-weight: bold;
+
+}
+
+.service-box2 {
+    background: #CE1126;
+    border-radius: 5px;
+    color: #000 !important;
+    box-shadow: 0 15px 15px 2px rgba(213,213,213,213,0.5);
+}
+
+
+
+
+
+/*feacture*/
+
+.feacture, .explore{
+    margin: 200px 0;
+}
+
+.feacture img, .explore img{
+    max-width: 77%;
+    cursor: pointer;
+}
+
+.feacture h2{
+    margin-top: 100px;
+    font-weight: bold;
+    line-height: 50px;
+}
+
+.feacture p, .explore p{
+    margin-top: 25px;
+    margin-bottom: 50px;
+    color: #000;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.feacture a, .explore a{
+    width: 170px;
+    padding: 15px 10px;
+    display: block;
+    background: #000;
+    text-decoration: none !important;
+    color: #fff !important;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold ;
+    font-size: 14px;
+    box-shadow: 0 9px 9px 1px rgb(204,204,204,0.5);
+
+}
+
+.explore h2{
+    margin-top: 50px;
+    font-weight: bold;
+    line-height: 50px;
+}
+
+.explore a{
+    margin-bottom: 50px;
+}
+
+/*review*/
+
+.review{
+    margin: 100px 0;
+}
+
+.carousel-item {
+    text-align: center;
+    height: 430px;
+}
+.carousel-item img{
+    width: 150px;
+    border-radius: 50%;
+}
+
+.carousel-caption{
+    z-index: -1 !important;
+    box-shadow: 0 0 15px 1px rgba(166,166,223,0.5);
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
+
+.carousel-caption h6{
+    margin-top: 55px;
+    font-weight: bold;
+    color: #000000 !important;
+}
+
+.carousel-caption small{
+    margin-top: 10px;
+    margin-bottom: 50px;
+    display: block;
+    color: #000000 !important;
+}
+
+.carousel-caption p{
+    text-align: center;
+    padding: 0 50px;
+    font-size: 15px;
+    color: #000000 !important;
+}
+.carousel-indicators li{
+    background-color: #000 !important; 
+}
+
+/*footer*/
+.footer {
+    background: #000000;
+    padding-top: 5px;
+    color: #fff;
+}
+
+
+.containerf a {
+    color:  #fff;
+}
+.containerf a :hover {
+    color:  #fff;
+}
+
+hr {
+    height: 1px;
+  background-color: #fff;
+    
+}
+
+.clearfix {
+    overflow: auto;
+  }
+.container small{
+    font-size: .9em
+}
+.container small :hover{
+    font-size: .9em
+}
+.footer a{
+    color: #fff;
+}
+.footer a :hover{
+    color: #fff;
+}
+.footer-copyright a {
+    color:  #fff;
+}
+.footer-copyright a :hover {
+    color:  #fff;
+}
+
+
+@media only screen and (max-width: 800px){
+
+
+    .container, .container-sm {
+        max-width: 100%;
+    }
+
+
+    .carousel-item{
+        height: 520px;
+    }
+
+.carousel-caption{
+    margin:  0 10px 50px 10px;
+    left: 0 !important;
+    right: 0 !important;
+}
+
+
+.navbar-nav .nav-link {
+    padding-right: 0;
+    padding-left: 2px;
+    padding: 0px;
+}
+
+@media only screen and (max-width: 500px){
+
+    .carousel-item img {
+        width: 165px;
+        border-radius: 50%;
+    }
+
+    .carousel-caption p {
+        text-align: center;
+        padding: 0 10px;
+        font-size: 15px;
+        color: #000000 !important;
+    }
+}
+
+
+@media only screen and (max-width: 320px){
+
+    .carousel-item img {
+        width: 110px;
+        border-radius: 50%;
+    }
+}
+
+
+@media only screen and (max-width: 320px){
+
+    .carousel-item img {
+        width: 110px;
+        border-radius: 50%;
+    }
+}
+}
